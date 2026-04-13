@@ -177,7 +177,7 @@ starlight({
   logo: { src: './src/assets/logo.svg', replacesTitle: true },
   pagefind: true,
   social: [
-    { icon: 'github', label: 'GitHub', href: 'https://github.com/ZKLSOL/JetBrains-Noir-Syntax-Highlight-Plugin' },
+    { icon: 'github', label: 'GitHub', href: 'https://github.com/turbine-cash/JetBrains-Noir-Syntax-Highlight-Plugin' },
   ],
   sidebar: [
     { label: 'Introduction', slug: 'introduction' },
@@ -208,6 +208,6 @@ starlight({
 ## Related Projects
 
 - **Plugin Marketplace**: https://plugins.jetbrains.com/plugin/29753-noir-language-support
-- **Plugin Source Code**: https://github.com/ZKLSOL/JetBrains-Noir-Syntax-Highlight-Plugin
+- **Plugin Source Code**: https://github.com/turbine-cash/JetBrains-Noir-Syntax-Highlight-Plugin
 - **Noir Language**: https://noir-lang.org/
 - **JetBrains Plugin SDK**: https://plugins.jetbrains.com/docs/intellij/

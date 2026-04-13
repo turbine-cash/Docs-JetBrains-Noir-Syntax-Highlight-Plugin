@@ -28,7 +28,7 @@ export default defineConfig({
 			favicon: '/favicon.svg',
 			customCss: ['./src/styles/custom.css'],
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/ZKLSOL/JetBrains-Noir-Syntax-Highlight-Plugin' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/turbine-cash/JetBrains-Noir-Syntax-Highlight-Plugin' },
 				{ icon: 'x.com', label: 'X', href: 'https://x.com/NoirLang' },
 			],
 			components: {
